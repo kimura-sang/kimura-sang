@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer;7+%2B%20years%20of%20working%20experience&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer%20&&%20Blockchain%20developer;7+%2B%20years%20of%20working%20experience&width=380&height=45">
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 - 🔭 Backend : NodeJs, Python, Php, CI, Laravel, Django, Express, Loopback, Nestjs
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite
 - 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, Solidity, Rust
-- 📫 Interesting : OpenCV, DL and AI, Blockchain
+- 📫 Interesting : AI, BigData, MetaVerse..
 
 ## Tools
 
@@ -74,9 +74,9 @@
 
 <div align="center">
   <h2>
-    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
-      How to reach me
-    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
+    <img src='https://github.com/kimura-sang/kimura-sang/blob/main/bow.jpg' width="100px" />
+      Welcome
+    <img src='https://github.com/kimura-sang/kimura-sang/blob/main/bow.jpg' width="100px" />
   </h2>
   <br />
   <p>
