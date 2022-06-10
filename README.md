@@ -10,7 +10,7 @@
 
 <h3>🏆 Github Profile Trophy</h3>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Karl&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations" alt="Followers, Commits, Stars, Repositories, PullRequest">
+<img src="https://github-profile-trophy.vercel.app/?username=kimura-sang&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations" alt="Followers, Commits, Stars, Repositories, PullRequest">
 </p>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Karl&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
