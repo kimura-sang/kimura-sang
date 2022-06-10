@@ -80,8 +80,8 @@
   </h2>
   <br />
   <p>
-    Email: istarDev0103@gmail.com <br />
-    Telegram: https://t.me/staycalm0103 <br />
-    linkedin: https://linkedin.com/in/kimura-sang
+    <code><img height="45" src="https://github.com/kimura-sang/kimura-sang/blob/main/email.jpg"></code> istarDev0103@gmail.com <br />
+    <code><img height="45" src="https://github.com/kimura-sang/kimura-sang/blob/main/telegram.jpg"></code> https://t.me/staycalm0103 <br />
+    <code><img height="45" src="https://github.com/kimura-sang/kimura-sang/blob/main/linkedin.jpg"></code> https://linkedin.com/in/kimura-sang
   </p>
 </div>
