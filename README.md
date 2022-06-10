@@ -82,6 +82,6 @@
   <p>
     <code><img height="20" src="https://github.com/kimura-sang/kimura-sang/blob/main/email.jpg"></code> istarDev0103@gmail.com <br />
     <code><img height="20" src="https://github.com/kimura-sang/kimura-sang/blob/main/telegram.jpg"></code> https://t.me/staycalm0103 <br />
-    <code><img height="20" src="https://github.com/kimura-sang/kimura-sang/blob/main/linkedin.jpg"></code> https://linkedin.com/in/kimura-sang
+    <code><img height="20" src="https://github.com/kimura-sang/kimura-sang/blob/main/skype.jpg"></code> live:.cid.a44ec637fcb7771a
   </p>
 </div>
