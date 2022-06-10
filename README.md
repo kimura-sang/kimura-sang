@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/kimura-sang/kimura-sang/blob/master/developing.jpg" />
+  <img src="https://github.com/kimura-sang/kimura-sang/blob/main/developing.jpg" />
 </p>
 
 <h3>🏆 Github Profile Trophy</h3>
