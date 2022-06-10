@@ -74,9 +74,9 @@
 
 <div align="center">
   <h2>
-    <img src='https://github.com/kimura-sang/kimura-sang/blob/main/bow.jpg' width="100px" />
+    <img src='https://github.com/kimura-sang/kimura-sang/blob/main/bow.gif' width="100px" />
       Welcome
-    <img src='https://github.com/kimura-sang/kimura-sang/blob/main/bow.jpg' width="100px" />
+    <img src='https://github.com/kimura-sang/kimura-sang/blob/main/bow.gif' width="100px" />
   </h2>
   <br />
   <p>
