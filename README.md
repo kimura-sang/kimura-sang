@@ -9,9 +9,7 @@
 </p>
 
 <h3>🏆 Github Profile Trophy</h3>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kimura-sang&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations" alt="Followers, Commits, Stars, Repositories, PullRequest,Issues,Organizations">
-</p>
+<p align="center" style="margin-bottom: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=kimura-sang&column=7&theme=onedark" alt="white" /></p>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kimura-sang&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
 </p>
