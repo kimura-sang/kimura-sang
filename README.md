@@ -10,22 +10,18 @@
 
 <h3>🏆 Github Profile Trophy</h3>
 <p align="center" style="margin-bottom: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=kimura-sang&column=7&theme=onedark" alt="white" /></p>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kimura-sang&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
+<p align="center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=kimura-sang&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_title=true"> 
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kimura-sang&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true">
 </p>
-
+<a href="https://github.com/kimura-sang/kimura-sang">
+  <img alt="kimura-sang's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kimura-sang&bg_color=22222E&color=DDDD66&line=00FFFF&point=0000FF&hide_title=true"/>
+</a>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer%20Blockchain%20developer;7+%2B%20years%20of%20working%20experiences%20in%20development&width=500&height=45">
   </a>
 </p>
-<p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=kimura-sang&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_title=true"> 
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kimura-sang&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true">
-</p>
-<a href="https://github.com/WhiteNightDeveloper/WhiteNightDeveloper">
-  <img alt="kimura-sang's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kimura-sang&bg_color=22222E&color=DDDD66&line=00FFFF&point=0000FF&hide_title=true"/>
-</a>
 ## Skills
 
 - 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS, React Native, Ionic
